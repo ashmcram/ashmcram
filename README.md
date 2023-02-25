@@ -5,7 +5,7 @@
   </head>
   <body>
     <h2 align="center"><VAR>
-      Programmer on FRC Team 85 B.O.B., High School Student, Expert in Java, HTML, CSS, and a few other coding languages.
+      Programmer on FRC Team 85 B.O.B., High School Student, Expert in Java, HTML, CSS, Python, JavaScript, and a few other coding languages.
       </h2></VAR>
     <h3><I>
       Ways to stay in touch with me:</I>
